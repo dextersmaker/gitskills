@@ -4,3 +4,6 @@
 # add a comment by dev.
 # fixed a bug.
 # fixed a bug by issue-102.
+working...
+edit by linux
+working by windows.
